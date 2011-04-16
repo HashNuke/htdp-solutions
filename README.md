@@ -7,3 +7,5 @@ You can always write programs with shorter variable names (like how most Lisp co
 
 The style in these solutions are mostly written from a perspective of a scheme beginner. So the programs in the earlier exercises may sound bad if you learn some extra syntactic sugar in the current exercise.
 
+__The first couple lines in each file are metadata added by DrRacket. I'm using the language pack for *How to Design Programs* which is available from the Language options menu.__
+
